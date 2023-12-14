@@ -16,6 +16,7 @@ const startServer = async () => {
     return;
   }
 
+  // Just a comment for testing GitHub
   await checkFile(CLIENTS, true);
   const comediansData = await fs.readFile(COMEDIANS, "utf-8");
   const comedians = JSON.parse(comediansData);
