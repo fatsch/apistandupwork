@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1",
+    "comedian": "Ruslan B.",
+    "performances": [
+      {
+        "time": "12:00",
+        "hall": "Halle 1"
+      },
+      {
+        "time": "23:00",
+        "hall": "Halle 2"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "comedian": "Julia A.",
+    "performances": [
+      {
+        "time": "13:00",
+        "hall": "Halle 1"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "comedian": "Timur K",
+    "performances": [
+      {
+        "time": "14:00",
+        "hall": "Halle 1"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "comedian": "Slava K.",
+    "performances": [
+      {
+        "time": "15:00",
+        "hall": "Halle 1"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "comedian": "Alex Sch.",
+    "performances": [
+      {
+        "time": "16:00",
+        "hall": "Halle 1"
+      },
+      {
+        "time": "21:00",
+        "hall": "Halle 1"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "comedian": "Viktor K.",
+    "performances": [
+      {
+        "time": "17:00",
+        "hall": "Halle 1"
+      },
+      {
+        "time": "22:00",
+        "hall": "Halle 1"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "comedian": "Dmitri R.",
+    "performances": [
+      {
+        "time": "18:00",
+        "hall": "Halle 1"
+      },
+      {
+        "time": "23:00",
+        "hall": "Halle 1"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "comedian": "Elena Nov",
+    "performances": [
+      {
+        "time": "19:00",
+        "hall": "Halle 1"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "comedian": "Vanja Usovitch",
+    "performances": [
+      {
+        "time": "12:00",
+        "hall": "Halle 2"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "comedian": "Ilja Sobolev",
+    "performances": [
+      {
+        "time": "13:00",
+        "hall": "Halle 2"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "comedian": "Ira Prix",
+    "performances": [
+      {
+        "time": "14:00",
+        "hall": "Halle 2"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "comedian": "Eugen Chebat",
+    "performances": [
+      {
+        "time": "15:00",
+        "hall": "Halle 2"
+      },
+      {
+        "time": "19:00",
+        "hall": "Halle 2"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "comedian": "Victoria Sklad",
+    "performances": [
+      {
+        "time": "16:00",
+        "hall": "Halle 2"
+      },
+      {
+        "time": "20:00",
+        "hall": "Halle 2"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "comedian": "Paul Ded",
+    "performances": [
+      {
+        "time": "17:00",
+        "hall": "Halle 2"
+      },
+      {
+        "time": "21:00",
+        "hall": "Halle 2"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "comedian": "Andrey Pak",
+    "performances": [
+      {
+        "time": "18:00",
+        "hall": "Halle 2"
+      },
+      {
+        "time": "22:00",
+        "hall": "Halle 2"
+      }
+    ]
+  }
+]
